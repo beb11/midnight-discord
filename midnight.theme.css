@@ -16,7 +16,7 @@
 	/* amount of spacing and padding */
 	--spacing: 12px;
 	/* radius of round corners */
-	--roundness: 16px;
+	--roundness: 20px;
 
 	/* color of links */
 	--accent-1: hsl(190, 70%, 60%);
